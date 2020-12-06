@@ -36,6 +36,6 @@ From root directory, run:
 
 ` node 6/index.js `
 
-## Contributers:
+## Contributors:
 
 * []() Anson Varughese
