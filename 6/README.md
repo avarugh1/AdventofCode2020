@@ -23,7 +23,7 @@
 * []() Split the input by the groups. Record the number of people per group.
 * []() Then for each group, remove the '\r\n' characters and join all the elements into one string per group.
 * []() Create a hashtable per group. Iterate through the group string. Record the count of each character in the group string.
-* []() Once completed, iterate through the hashtable. If the count of a character is equal to the number of yes', then all the people must have said yes to that question (character). Increment counter for allYes in this instance
+* []() Once completed, iterate through the hashtable. If the count of a character is equal to the number of people, then all the people must have said yes to that question (character). Increment counter for allYes in this instance
 * []() Return the sum of all the yes' per group.
 
 ## Key Files:
@@ -36,6 +36,6 @@ From root directory, run:
 
 ` node 6/index.js `
 
-## Contributers:
+## Contributors:
 
 * []() Anson Varughese
