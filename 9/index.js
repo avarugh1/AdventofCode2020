@@ -19,7 +19,6 @@ function slidingWindow(data, final){
             return min + max;
         }
     }
-    //return data[initial];
 }
 
 function firstMissing(data, preamble){
@@ -74,7 +73,7 @@ function pullInput(inFile){
 }
 
 // Part 1
-/*{
+{
     let data = pullInput("9/\input_1.txt");
     let count = firstMissing(data, 5);
     console.log(count);
@@ -83,7 +82,7 @@ function pullInput(inFile){
     let data = pullInput("9/\input_2.txt");
     let count = firstMissing(data, 25);
     console.log(count);
-}*/
+}
 
 // Part 2
 {
